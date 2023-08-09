@@ -1,0 +1,57 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "is_employee": true,
+      "hobbies": ["Reading", "Gardening", "Cooking"],
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "country": "USA"
+      }
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "is_employee": true,
+      "hobbies": ["Hiking", "Photography", "Painting"],
+      "address": {
+        "street": "456 Elm Rd",
+        "city": "Othercity",
+        "country": "Canada"
+      }
+    },
+    {
+      "name": "Michael Johnson",
+      "age": 40,
+      "is_employee": false,
+      "hobbies": ["Traveling", "Fishing", "Swimming"],
+      "address": {
+        "street": "789 Oak Ave",
+        "city": "Someplace",
+        "country": "UK"
+      }
+    },
+    {
+      "name": "Sarah Lee",
+      "age": 28,
+      "is_employee": true,
+      "hobbies": ["Singing", "Dancing", "Yoga"],
+      "address": {
+        "street": "101 Pine St",
+        "city": "Anothercity",
+        "country": "Australia"
+      }
+    },
+    {
+      "name": "David Wang",
+      "age": 35,
+      "is_employee": true,
+      "hobbies": ["Playing Guitar", "Video Games", "Watching Movies"],
+      "address": {
+        "street": "222 Cedar Rd",
+        "city": "Somewhere",
+        "country": "Germany"
+      }
+    }
+  ]
